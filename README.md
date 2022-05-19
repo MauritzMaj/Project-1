@@ -5,7 +5,7 @@ In this repository you can find all the files required for submission for Projec
 The files in this repository were used to configure the network depicted below.
 
 **Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
-![image](https://user-images.githubusercontent.com/105758175/169410095-ebc4a5bc-79e5-48f1-9fad-e21ec0d8728b.png)
+![image](https://user-images.githubusercontent.com/105758175/169412527-6a000dd6-6db4-4706-9af4-61f2169db305.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
