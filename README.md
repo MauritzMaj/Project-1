@@ -5,15 +5,15 @@ In this repository you can find all the files required for submission for Projec
 The files in this repository were used to configure the network depicted below.
 
 **Note**: The following image link needs to be updated. Replace `diagram_filename.png` with the name of your diagram image file.  
+![image](https://user-images.githubusercontent.com/105758175/169410095-ebc4a5bc-79e5-48f1-9fad-e21ec0d8728b.png)
 
-C:\Users\mauri\Downloads\Images\Vnet_Project_1.png
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the .yml file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+  -https://github.com/MauritzMaj/Project-1/blob/main/Ansible/elk_yaml.txt
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
@@ -83,7 +83,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-"C:\Users\mauri\Downloads\Images\elk.png" 
+![image](https://user-images.githubusercontent.com/105758175/169410057-2fde7384-6b93-4922-91eb-01c4c49767a0.png)
 
 
 ### Target Machines & Beats
