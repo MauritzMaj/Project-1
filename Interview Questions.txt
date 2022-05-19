@@ -1,0 +1,29 @@
+Can you explain that you did in this project and what was the purpose of it?
+ 
+-The purpose of this project was to set up and configure an ELK server to monitor two web servers on another virtual network.
+
+What did you use to monitor your network traffic?
+
+- To monitor network traffic an ELK stack was used in combination with metricbeat and filebeat.
+
+What were the components?
+
+- The ELK stack consists of:
+
+	-Elasticsearch
+	-Logstash
+	-Filebeat
+	-Metricbeat
+	-Kibana
+
+What is metricbeat monitoring?
+
+- Metricbeat monitors the metrics of your OS and any running services: The amount of traffic, geographic distribution of your network, 
+traffic increase/decrease per day and time, etc.
+
+
+What is filebeat monitoring? 
+
+-Filebeat monitors the log files and/or specified log locations on your machines and collects log events.
+
+
